@@ -15,4 +15,5 @@ def fun(a, b):
     print( np.sum( np.array([a, b]) ) )
 
 
-fun(1,3)
+if __name__ == "__main__":
+    fun(1,3)
