@@ -5,7 +5,6 @@
     
 """
 
-
 import numpy as np
 
 
@@ -14,8 +13,3 @@ def fun(a, b):
 
 def fun2(a, b):
     print( np.multiply(a, b) )
-
-
-if __name__ == "__main__":
-    fun(1, 3)
-    fun2(1, 3)
