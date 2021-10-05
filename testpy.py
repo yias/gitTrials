@@ -15,6 +15,8 @@ def fun(a, b):
 def fre(c, d):
     print(np.ones( [c, d]) )
 
-fun(1, 3)
-fun(4, 5)
-fun(5, 6)
+if __name__ == '__main__':
+
+    fun(1, 3)
+    fun(4, 5)
+    fun(5, 6)
