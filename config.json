@@ -1,0 +1,25 @@
+{
+    "OS": "Linux",
+    "artifactory_path_details": [
+        {
+            "source_path": "v221_Certified-cache/winx64/setup.exe",
+            "destination_file_name": "fluent.exe"
+        }
+    ],
+    "GUID": "c8088a01-e62d-44ff-9032-0d5c70ad2cc3",
+
+    "name": "appNb23",
+    "description": "test app",
+    "dependencies": [],
+    "runningProcess": "$",
+    "iconURL": "string",
+    "linuxSortedConfigPropertyList": [],
+    "configProperties": {},
+    "appStreamPathToExecutable": "",
+    "recommendedSizes": {},
+    "managedApps": "",
+    "managementServer": true,    
+    "appStreamDisplayName": "string",
+    "dsAppSizingGuid": "string",
+    "versionNumber": "string"
+}
